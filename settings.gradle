@@ -1,0 +1,2 @@
+rootProject.name = "Tix_Java_native"
+include ':app'
